@@ -1,4 +1,6 @@
-internet without internet and its a mobile and desktop app
+# WiFi v2
+
+internet without internet
 
 ```bash
 sudo python wifi.py
